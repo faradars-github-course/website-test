@@ -14,4 +14,4 @@
 
 # پیش نمایش
 
-مشاهده دمو : <a href="#">دمو</a>
+مشاهده دمو : <a href="https://faradars-github-test.netlify.app">دمو</a>
